@@ -198,7 +198,10 @@ endmodule
 ```
 ## output
 ## Blocking:
-<img width="584" alt="image" src="https://github.com/user-attachments/assets/68dfa7e5-74a7-4bb0-b156-99b4e85bc50a" />
+![Screenshot 2025-04-12 135447](https://github.com/user-attachments/assets/c1cbe5f9-a436-48c0-befd-1c6cca2853b2)
+
+
+
 ## NonBlocking:
 ![Screenshot 2025-04-12 135546](https://github.com/user-attachments/assets/c6b66085-d332-4d33-a3f4-3d273e4a92ba)
 
